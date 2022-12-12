@@ -13,7 +13,7 @@ export default function Index() {
           Astra Bot
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       How about moderating your own server with Astra bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
+       How about moderating your own server with Asura? Create your own free world, experience this pleasure with Asura Bot. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
@@ -23,7 +23,7 @@ export default function Index() {
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          Invite Astra
+          Invite Asura
               </a>
             </Link>
   <div className="py-10"></div>
@@ -45,7 +45,7 @@ Vote Astra</a>
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
           <div className="col-span-4">
-            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Astra Bot" }} />
+            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Asura" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
             <a href="https://bit.ly/3PHDjyC" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
               <i className="fab fa-discord mr-2" />Invite Astra
@@ -63,7 +63,7 @@ Vote Astra</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Universal</p>
-                  <p className="text-gray-500 line-clamp-4">A bot that supports multi-platform music playback. (Spotify, Souncloud, YouTube) | (It is a bot that complies with all copyrights and licenses.)</p>
+                  <p className="text-gray-500 line-clamp-4">A bot that supports multi-purpose of your server in All-In-One. (Moderation, Music, Auto-Mod, Utility, Information) | (It is a bot that complies with all copyrights and licenses.)</p>
                 </div>
               </div>
               <div>
@@ -86,11 +86,11 @@ Vote Astra</a>
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
-                  <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Astra, the best and most up-to-date bot?</p>
+                  <img src="https://i.imgur.com/JfC6fK0.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <p className="text-3xl text-white font-semibold">Level-Up Your Server!</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Asura, the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://i.imgur.com/JfC6fK0.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
