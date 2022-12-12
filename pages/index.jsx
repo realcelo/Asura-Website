@@ -10,14 +10,14 @@ export default function Index() {
       <img width="500" src="/img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          Astra Bot
+          Asura
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        How about moderating your own server with Asura? Create your own free world, experience this pleasure with Asura Bot. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://bit.ly/3PHDjyC"}>
+            <Link href={"https://discord.com/api/oauth2/authorize?client_id=1029772012589154427&permissions=277028603904&scope=bot%20applications.commands"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
@@ -27,9 +27,9 @@ export default function Index() {
               </a>
             </Link>
   <div className="py-10"></div>
-  <Link href={"https://bit.ly/3LYzaDe"}>
+  <Link href={"https://top.gg/bot/1029772012589154427/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Astra</a>
+Vote Asura</a>
   </Link>
         </div>
 
@@ -48,7 +48,7 @@ Vote Astra</a>
             <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Asura" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
             <a href="https://bit.ly/3PHDjyC" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
-              <i className="fab fa-discord mr-2" />Invite Astra
+              <i className="fab fa-discord mr-2" />Invite Asura
             </a>
           </div>
 
