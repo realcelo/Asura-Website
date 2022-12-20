@@ -102,7 +102,7 @@ Vote Asura</a>
                   <p className="text-3xl text-white font-semibold">Level-Up Your Server!</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Asura, the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://i.imgur.com/0v3qxtb.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://i.imgur.com/0v3qxtb.png" className="hidden lg:block rounded-xl perspective-left shadow-xl shadow-black" />
               </>
       
         </div>
