@@ -88,7 +88,7 @@ Vote Asura</a>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://i.imgur.com/gJSDi9A.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Feature-rich command list!</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Asura offers you a much more feature-rich command list than the average Discord bot! You can get more information on the commands page!</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Asura offers you a much more feature-rich command list than the average Discord bot!</p>
                 </div>
                 <img src="https://i.imgur.com/gJSDi9A.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
@@ -98,11 +98,11 @@ Vote Asura</a>
 		  <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-right lg:flex-none">
-                  <img src="https://i.imgur.com/0v3qxtb.png"  width="256" className="lg:hidden rounded-xl perspective-left mb-5 shadow-xl shadow-black" />
+                  <img src="https://i.imgur.com/0v3qxtb.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Music System!</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Play high quality music in your Discord server for free.</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Play high quality endless 24/7 music in your Discord server all for free.</p>
                 </div>
-                <img src="https://i.imgur.com/0v3qxtb.png" className="hidden lg:block rounded-xl perspective-left shadow-xl shadow-black" />
+                <img src="https://i.imgur.com/0v3qxtb.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
